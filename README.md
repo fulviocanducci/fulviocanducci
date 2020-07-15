@@ -1,4 +1,6 @@
-### Hi there 👋
+### Fúlvio Cezar Canducci Dias 👋
+
+![GitHub followers](https://img.shields.io/github/followers/fulviocanducci?style=social)
 
 <!--
 **fulviocanducci/fulviocanducci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
