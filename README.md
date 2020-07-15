@@ -1,4 +1,4 @@
-### Fúlvio Cezar Canducci Dias 👋
+ Fúlvio Cezar Canducci Dias 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/fulviocanducci?style=social)
 
